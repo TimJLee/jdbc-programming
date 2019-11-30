@@ -22,7 +22,7 @@ public class CallableStatementTest
 
 		cs.setInt(1, p_num);
 		cs.executeUpdate();
- 
+
 		cs.close();
 		conn.close();
 	}catch(Exception e)

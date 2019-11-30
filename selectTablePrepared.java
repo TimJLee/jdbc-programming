@@ -1,4 +1,5 @@
 import java.sql.*;
+
 public class selectTablePrepared
 {
 	public static void main(String[] argv)
